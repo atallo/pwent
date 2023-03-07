@@ -1,4 +1,4 @@
-package com.example.sunmiprinterethernetbridge
+package com.atallo.pwent
 
 import android.util.Log
 import kotlinx.coroutines.Dispatchers

@@ -1,10 +1,10 @@
-package com.example.sunmiprinterethernetbridge
+package com.atallo.pwent
 
 import android.net.ConnectivityManager
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.sunmiprinterethernetbridge.databinding.ActivityMainBinding
+import com.atallo.pwent.databinding.ActivityMainBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

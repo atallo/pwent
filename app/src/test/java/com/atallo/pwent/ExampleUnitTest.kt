@@ -1,4 +1,4 @@
-package com.example.sunmiprinterethernetbridge
+package com.atallo.pwent
 
 import org.junit.Test
 
